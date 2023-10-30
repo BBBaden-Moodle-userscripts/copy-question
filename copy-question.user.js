@@ -2,11 +2,20 @@
 // @name        copy-question
 // @namespace   copy-question
 // @match       https://moodle.bbbaden.ch/mod/quiz/attempt.php*
-// @grant       GM_setClipboard
 // @version     1.0.0
-// @author      black-backdoor (https://github.com/black-backdoor)
+//
+// @downloadURL https://github.com/BBBaden-Moodle-userscripts/copy-question/raw/main/copy-question.user.js
+// @updateURL   https://github.com/BBBaden-Moodle-userscripts/copy-question/raw/main/copy-question.user.js
+// @homepageURL https://github.com/BBBaden-Moodle-userscripts/copy-question
+// @supportURL  https://github.com/BBBaden-Moodle-userscripts/copy-question/issues
+//
 // @description copys the question text to the clipboard
+// @author      black-backdoor (https://github.com/black-backdoor)
+//
+// @run-at      document-end
+// @grant       GM_setClipboard
 // ==/UserScript==
+
 
 
 // Find the HTML element with the class "formulation clearfix"
