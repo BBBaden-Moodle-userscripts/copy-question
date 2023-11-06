@@ -2,7 +2,7 @@
 // @name        copy-question
 // @namespace   copy-question
 // @match       https://moodle.bbbaden.ch/mod/quiz/attempt.php*
-// @version     1.0.0
+// @version     1.0.1
 //
 // @downloadURL https://github.com/BBBaden-Moodle-userscripts/copy-question/raw/main/copy-question.user.js
 // @updateURL   https://github.com/BBBaden-Moodle-userscripts/copy-question/raw/main/copy-question.user.js
@@ -39,4 +39,4 @@ text = text.trim();
 console.log(text);
 
 // Copy the text to the clipboard
-GM_setClipboard(text, 'text/plain')
+GM_setClipboard(text, 'text/plain');
