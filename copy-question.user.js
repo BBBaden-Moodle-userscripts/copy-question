@@ -10,7 +10,7 @@
 // @supportURL  https://github.com/BBBaden-Moodle-userscripts/copy-question/issues
 //
 // @description copys the question text to the clipboard
-// @author      black-backdoor (https://github.com/black-backdoor)
+// @author      black-backdoor
 //
 // @icon        https://github.com/BBBaden-Moodle-userscripts/copy-question/raw/main/icon.svg
 //
