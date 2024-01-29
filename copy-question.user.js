@@ -2,7 +2,8 @@
 // @name        copy-question
 // @namespace   copy-question
 // @match       https://moodle.bbbaden.ch/mod/quiz/attempt.php*
-// @version     1.1.0
+// @match       https://moodle.bbbaden.ch/userscript/extensions
+// @version     1.1.1
 //
 // @downloadURL https://github.com/BBBaden-Moodle-userscripts/copy-question/raw/main/copy-question.user.js
 // @updateURL   https://github.com/BBBaden-Moodle-userscripts/copy-question/raw/main/copy-question.user.js
